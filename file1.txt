@@ -1,1 +1,2 @@
 Hello Students we are learning here about the git commands using git bash terminal
+Hello i am going to change this file text
